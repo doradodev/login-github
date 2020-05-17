@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "path": "/usuario",
+    "titulo": "Ingrese Usuario de Github",
+    "tipo": "input",
+    "nombre": "user"
+  },
+  {
+    "id": 2,
+    "path": "/contrasena",
+    "titulo": "Ingrese Contraseña de Github",
+    "tipo": "password",
+    "nombre": "password"
+  },
+  {
+    "id": 3,
+    "path": "/codigo-autenticacion",
+    "titulo": "Ingrese su código de autenticación",
+    "tipo": "inputNumber",
+    "nombre": "auth"
+  }
+]
